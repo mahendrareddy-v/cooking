@@ -1,5 +1,5 @@
 # cooking
 
-#index 
+index 
 chicken
 pizzza
